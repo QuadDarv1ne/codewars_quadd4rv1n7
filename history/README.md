@@ -20,7 +20,7 @@
 
 4. Your order, please (6 kyu)
 5. Sum of odd numbers (7 kyu)
-6. 6
+6. Array.diff (6 kyu)
 7. 7
 8. 8
 9. 9
