@@ -6,6 +6,7 @@
 
 ![7_kyu](img/7_kyu.png)
 
+![state_7_kyu](img/state_7_kyu.png)
 
 ### Date: --.--.2024
 
