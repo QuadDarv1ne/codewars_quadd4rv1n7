@@ -21,6 +21,9 @@
 4. Your order, please (6 kyu)
 5. Sum of odd numbers (7 kyu)
 6. Array.diff (6 kyu)
+
+![achievement_2](img/achievement/achievement_2.png)
+
 7. 7
 8. 8
 9. 9
