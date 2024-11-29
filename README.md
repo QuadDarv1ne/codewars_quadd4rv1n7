@@ -99,6 +99,6 @@ pip install -r requirements.txt
 
 ---
 
-**Автор:** Дуплей Максим Игоревич
+**Автор:** Дуплей Максим Игоревич / Dupley Maxim Igorevich
 
 **Дата:** 29.11.2024
