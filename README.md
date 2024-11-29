@@ -99,6 +99,12 @@ pip install -r requirements.txt
 
 ---
 
+### My profile:
+
+![profile](quadd4rv1n7_profile.png)
+
+---
+
 **Автор:** Дуплей Максим Игоревич / Dupley Maxim Igorevich
 
 **Дата:** 29.11.2024

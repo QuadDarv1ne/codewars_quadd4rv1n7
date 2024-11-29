@@ -14,8 +14,11 @@
 
 ![achievement_1](img/achievement/achievement_1.png)
 
-3. 3
-4. 4
+3. Unique In Order (6 kyu)
+
+![7_kyu_python](img/7_kyu_python.png)
+
+4. Your order, please (6 kyu)
 5. 5
 6. 6
 7. 7
