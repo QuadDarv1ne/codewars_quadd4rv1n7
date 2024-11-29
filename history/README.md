@@ -19,7 +19,7 @@
 ![7_kyu_python](img/7_kyu_python.png)
 
 4. Your order, please (6 kyu)
-5. 5
+5. Sum of odd numbers (7 kyu)
 6. 6
 7. 7
 8. 8
