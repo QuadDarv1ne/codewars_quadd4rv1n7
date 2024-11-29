@@ -24,8 +24,11 @@
 
 ![achievement_2](img/achievement/achievement_2.png)
 
-7. 7
-8. 8
+7. Friend or Foe? (7 kyu)
+8. The Hashtag Generator (5 kyu)
+
+![6_kyu](img/6_kyu.png)
+
 9. 9
 10. 10
 11. 11
