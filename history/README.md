@@ -45,11 +45,11 @@
 
 17. Counting sheep (7 kyu)
 18. Playing with digits (6 kyu)
-19. 
-20. 
-21. 
-22. 
-23. 
+19. Consonant value (6 kyu)
+20. Remove String Spaces (8 kyu)
+21. Reversed Strings (8 kyu)
+22. Square Every Digit (7 kyu)
+23. Length of missing array (6 kyu)
 24. 
 25. 
 26. 
