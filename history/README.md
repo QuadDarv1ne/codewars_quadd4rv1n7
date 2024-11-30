@@ -64,10 +64,14 @@
 35. Find the crossing (graphic calculations) (6 kyu)
 36. Pyramid Slide Down (4 kyu)
 37. Sum by Factors (4 kyu)
-38. 
-39. 
-40. 
-
+38. Calculate average (8 kyu)
+39. Remove First and Last Character (8 kyu)
+40. Best travel (5 kyu)
+41. Who likes it? (6 kyu)
+42. Sum Arrays (8 kyu)
+43. 
+44. 
+45. 
 
 ### Date: --.--.2024
 
