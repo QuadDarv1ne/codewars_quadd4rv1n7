@@ -29,28 +29,34 @@
 
 ![6_kyu](img/6_kyu.png)
 
-9. 9
-10. 10
-11. 11
-12. 12
-13. 13
-14. 14
-15. 15
-16. 16
-17. 17
-18. 18
-19. 19
-20. 20
-21. 21
-22. 22
-23. 23
-24. 24
-25. 25
-26. 26
-27. 27
-28. 28
-29. 29
-30. 30
+9. Split Strings (6 kyu)
+10. Create Phone Number (6 kyu)
+11. Decode the Morse code (6 kyu)
+12. Valid Braces (6 kyu)
+
+![achievement_3](img/achievement/achievement_3.png)
+
+13. Josephus Permutation (5 kyu)
+14. Maximum Multiple (7 kyu)
+15. Memoized Fibonacci (5 kyu)
+16. Number of trailing zeros of N (5 kyu)
+
+![5_kyu](img/5_kyu.png)
+
+17. 
+18. 
+19. 
+20. 
+21. 
+22. 
+23. 
+24. 
+25. 
+26. 
+27. 
+28. 
+29. 
+30. 
 
 
 ### Date: --.--.2024
