@@ -59,11 +59,11 @@
 30. Fluent Calculator (3 kyu)
 31. Tip Calculator (8 kyu)
 32. Opposites Attract (8 kyu)
-33. 
-34. 
-35. 
-36. 
-37. 
+33. simple calculator (8 kyu)
+34. Calculate BMI (8 kyu)
+35. Find the crossing (graphic calculations) (6 kyu)
+36. Pyramid Slide Down (4 kyu)
+37. Sum by Factors (4 kyu)
 38. 
 39. 
 40. 
