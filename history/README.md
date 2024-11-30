@@ -69,9 +69,14 @@
 40. Best travel (5 kyu)
 41. Who likes it? (6 kyu)
 42. Sum Arrays (8 kyu)
-43. 
-44. 
-45. 
+43. Convert a Boolean to a String (8 kyu)
+44. Fake Binary (8 kyu)
+45. Codewars style ranking system (4 kyu)
+46. Triple trouble (6 kyu)
+47. 
+48. 
+49. 
+50. 
 
 ### Date: --.--.2024
 
