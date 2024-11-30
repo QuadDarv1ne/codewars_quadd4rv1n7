@@ -50,8 +50,8 @@
 21. Reversed Strings (8 kyu)
 22. Square Every Digit (7 kyu)
 23. Length of missing array (6 kyu)
-24. 
-25. 
+24. Equal Sides Of An Array (6 kyu)
+25. Function 1 - hello world (8 kyu)
 26. 
 27. 
 28. 
