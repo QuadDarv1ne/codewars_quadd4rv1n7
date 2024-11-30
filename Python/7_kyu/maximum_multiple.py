@@ -34,4 +34,4 @@ def max_multiple(divisor, bound):
 
 # TODO: Заметки
 ## Автор: Дуплей Максим Игоревич / Dupley Maxim Igorevich
-## Дата: 29.11.2024
+## Дата: 30.11.2024
