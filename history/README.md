@@ -52,8 +52,8 @@
 23. Length of missing array (6 kyu)
 24. Equal Sides Of An Array (6 kyu)
 25. Function 1 - hello world (8 kyu)
-26. 
-27. 
+26. Vowel Count (7 kyu)
+27. Sum of two lowest positive integers (7 kyu)
 28. 
 29. 
 30. 

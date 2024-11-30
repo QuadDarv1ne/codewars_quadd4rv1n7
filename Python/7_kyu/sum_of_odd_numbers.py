@@ -20,4 +20,4 @@ def row_sum_odd_numbers(n):
 
 # TODO: Заметки
 ## Автор: Дуплей Максим Игоревич / Dupley Maxim Igorevich
-## Дата: 29.11.2024
+## Дата: 30.11.2024
