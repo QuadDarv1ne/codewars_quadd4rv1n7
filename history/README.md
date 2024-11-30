@@ -54,9 +54,19 @@
 25. Function 1 - hello world (8 kyu)
 26. Vowel Count (7 kyu)
 27. Sum of two lowest positive integers (7 kyu)
-28. 
-29. 
-30. 
+28. Are You Playing Banjo ? (8 kyu)
+29. Descending Order (7 kyu)
+30. Fluent Calculator (3 kyu)
+31. Tip Calculator (8 kyu)
+32. Opposites Attract (8 kyu)
+33. 
+34. 
+35. 
+36. 
+37. 
+38. 
+39. 
+40. 
 
 
 ### Date: --.--.2024
