@@ -43,8 +43,8 @@
 
 ![5_kyu](img/5_kyu.png)
 
-17. 
-18. 
+17. Counting sheep (7 kyu)
+18. Playing with digits (6 kyu)
 19. 
 20. 
 21. 
