@@ -73,10 +73,23 @@
 44. Fake Binary (8 kyu)
 45. Codewars style ranking system (4 kyu)
 46. Triple trouble (6 kyu)
-47. 
-48. 
-49. 
-50. 
+47. Sudoku Solver (3 kyu)
+
+![4_kyu](img/4_kyu.png)
+
+48. Detect Pangram (6 kyu)
+49. Gap in Primes (5 kyu)
+50. Simple frequency sort (6 kyu)
+51. Printer Errors (7 kyu)
+52. Form The Minimum (7 kyu)
+53. 
+54. 
+55. 
+56. 
+57. 
+58. 
+59. 
+60. 
 
 ### Date: --.--.2024
 
