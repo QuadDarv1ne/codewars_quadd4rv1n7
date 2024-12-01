@@ -111,6 +111,9 @@
 79. Reverse list (7 kyu)
 80. Simplifying (3 kyu) ?
 81. Square(n) Sum (8 kyu)
+
+![alt text](img/4_kyu_second.png)
+
 82. 
 83. 
 84. 
