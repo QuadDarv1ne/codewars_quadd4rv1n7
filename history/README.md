@@ -103,8 +103,8 @@
 71. Sentence Smash (8 kyu)
 72. Growth of a Population (7 kyu)
 73. Closest pair of points in linearithmic time (3 kyu)
-74. 
-75. 
+74. Cut the cake (2 kyu) ?
+75. RGB To Hex Conversion (5 kyu)
 76. 
 77. 
 78. 
