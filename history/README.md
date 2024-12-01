@@ -83,13 +83,54 @@
 51. Printer Errors (7 kyu)
 52. Form The Minimum (7 kyu)
 53. Mumbling (7 kyu)
-54. 
-55. 
-56. 
-57. 
-58. 
-59. 
-60. 
+54. Binary Addition (7 kyu)
+55. Descending Order (7 kyu)
+56. Keep Hydrated (8 kyu)
+57. Will you make it ? (8 kyu)
+58. Convert boolean values to strings 'Yes' or 'No' (8 kyu)
+59. Return Negative (8 kyu)
+60. Ones and Zeros (7 kyu)
+61. Simple multiplication (8 kyu)
+62. List Filtering (7 kyu)
+63. Delete occurrences of an element if it occurs more than n times (6 kyu)
+64. Highest Scoring Word (6 kyu)
+65. Reversed sequence (8 kyu)
+66. Two to One (7 kyu)
+67. Convert a Number to a String (8 kyu)
+68. Convert number to reversed array of digits (8 kyu)
+69. Categorize New Member (7 kyu)
+70. MakeUpperCase (8 kyu)
+71. 
+72. 
+73. 
+74. 
+75. 
+76. 
+77. 
+78. 
+79. 
+80. 
+81. 
+82. 
+83. 
+84. 
+85. 
+86. 
+87. 
+88. 
+89. 
+90. 
+91. 
+92. 
+93. 
+94. 
+95. 
+96. 
+97. 
+98. 
+99. 
+100. 
+
 
 ### Date: --.--.2024
 
