@@ -100,9 +100,9 @@
 68. Convert number to reversed array of digits (8 kyu)
 69. Categorize New Member (7 kyu)
 70. MakeUpperCase (8 kyu)
-71. 
-72. 
-73. 
+71. Sentence Smash (8 kyu)
+72. Growth of a Population (7 kyu)
+73. Closest pair of points in linearithmic time (3 kyu)
 74. 
 75. 
 76. 
