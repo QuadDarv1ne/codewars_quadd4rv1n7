@@ -12,9 +12,9 @@ Examples:(Input1, Input2 --> Output (explanation)))
 
 
 def add_binary(a, b):
-    # Add the numbers and convert the sum to binary (without '0b' prefix)
+    # Складываем числа a и b, затем конвертируем сумму в двоичную систему счисления
+    # Используем срез [2:], чтобы убрать префикс '0b' из строки
     return bin(a + b)[2:]
-
 
 # TODO: Заметки
 ## Автор: Дуплей Максим Игоревич / Dupley Maxim Igorevich

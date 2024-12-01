@@ -14,9 +14,9 @@ longest(a, a) -> "abcdefghijklmnopqrstuvwxyz"
 
 
 def longest(a1, a2):
-    # Combine both strings, convert to a set to get unique characters, and then sort them
+    # Объединяем две строки a1 и a2, преобразуем в множество для получения уникальных символов
+    # Затем сортируем полученное множество и объединяем в строку
     return ''.join(sorted(set(a1 + a2)))
-
 
 # TODO: Заметки
 ## Автор: Дуплей Максим Игоревич / Dupley Maxim Igorevich
