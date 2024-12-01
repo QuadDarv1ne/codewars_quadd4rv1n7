@@ -110,7 +110,7 @@
 78. Shortest Word (7 kyu)
 79. Reverse list (7 kyu)
 80. Simplifying (3 kyu) ?
-81. 
+81. Square(n) Sum (8 kyu)
 82. 
 83. 
 84. 
