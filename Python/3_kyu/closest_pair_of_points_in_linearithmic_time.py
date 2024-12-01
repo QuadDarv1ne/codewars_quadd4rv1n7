@@ -114,4 +114,4 @@ def closest_pair(points):
 
 # TODO: Заметки
 ## Автор: Дуплей Максим Игоревич / Dupley Maxim Igorevich
-## Дата: 30.11.2024
+## Дата: 01.12.2024

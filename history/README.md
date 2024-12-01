@@ -105,11 +105,11 @@
 73. Closest pair of points in linearithmic time (3 kyu)
 74. Cut the cake (2 kyu) ?
 75. RGB To Hex Conversion (5 kyu)
-76. 
-77. 
-78. 
-79. 
-80. 
+76. Directions Reduction (5 kyu)
+77. Which are in? (6 kyu)
+78. Shortest Word (7 kyu)
+79. Reverse list (7 kyu)
+80. Simplifying (3 kyu) ?
 81. 
 82. 
 83. 
