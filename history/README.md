@@ -114,12 +114,12 @@
 
 ![alt text](img/4_kyu_second.png)
 
-82. 
-83. 
-84. 
-85. 
-86. 
-87. 
+82. Persistent Bugger (6 kyu)
+83. Basic Mathematical Operations (8 kyu)
+84. Simple Pig Latin (5 kyu)
+85. Highest and Lowest (7 kyu)
+86. Array plus array (8 kyu)
+87. Century From Year (8 kyu)
 88. 
 89. 
 90. 
