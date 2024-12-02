@@ -112,7 +112,7 @@
 80. Simplifying (3 kyu) ?
 81. Square(n) Sum (8 kyu)
 
-![alt text](img/4_kyu_second.png)
+![4_kyu_second](img/4_kyu_second.png)
 
 82. Persistent Bugger (6 kyu)
 83. Basic Mathematical Operations (8 kyu)
@@ -129,9 +129,13 @@
 94. Count the smiley faces (6 kyu)
 95. Invert values (8 kyu)
 96. Fastest Code : Equal to 24 (2 kyu)
-97. 
-98. 
-99. 
+97. Evaluate mathematical expression (2 kyu)
+
+![achievement_4](img/achievement/achievement_4.png)
+![4_kyu](img/3_kyu.png)
+
+98. Huffman Encoding (3 kyu)
+99. Simpler Interactive interpreter (or REPL) (2 kyu)
 100. 
 
 
