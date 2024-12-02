@@ -120,15 +120,15 @@
 85. Highest and Lowest (7 kyu)
 86. Array plus array (8 kyu)
 87. Century From Year (8 kyu)
-88. 
-89. 
-90. 
-91. 
-92. 
-93. 
-94. 
-95. 
-96. 
+88. Stop gninnipS My sdroW! (6 kyu)
+89. Even or Odd (8 kyu)
+90. Is n divisible by x and y ? (8 kyu)
+91. Sum Mixed Array (8 kyu)
+92. You only need one - Beginner (8 kyu)
+93. Convert a string to an array (8 kyu)
+94. Count the smiley faces (6 kyu)
+95. Invert values (8 kyu)
+96. Fastest Code : Equal to 24 (2 kyu)
 97. 
 98. 
 99. 
