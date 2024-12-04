@@ -136,7 +136,7 @@
 
 98. Huffman Encoding (3 kyu)
 99. Simpler Interactive interpreter (or REPL) (2 kyu)
-100. 
+100. Metaclasses - Simple Django Models (3 kyu)
 
 
 ### Date: --.--.2024
