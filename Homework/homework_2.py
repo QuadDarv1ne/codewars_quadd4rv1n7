@@ -51,3 +51,10 @@ file_path = 'Palindrome_Check_Python_Task.docx'
 doc.save(file_path)
 
 file_path  # Возвращаем путь к файлу для скачивания
+
+
+
+# TODO: Заметки
+## Автор: Дуплей Максим Игоревич
+## Дата: 08.12.2024
+## @quadd4rv1n7 @dupley_maxim_1999
