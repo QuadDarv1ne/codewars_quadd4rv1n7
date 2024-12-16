@@ -1,5 +1,5 @@
 '''
-[ Closest pair of points in linearithmic time]
+[ Closest pair of points in linearithmic time ]
 
 Given a number of points on a plane, your task is to find two points with the smallest distance between them in linearithmic O(n log n) time.
 

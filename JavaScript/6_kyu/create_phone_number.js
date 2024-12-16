@@ -1,29 +1,34 @@
 /*
-[ Create Phone Number ]
+[ EN: Create Phone Number ]
+[ RU: Создание телефонного номера ]
 
-Write a function that accepts an array of 10 integers (between 0 and 9), that returns a string of those numbers in the form of a phone number.
+Напишите функцию, которая принимает массив из 10 целых чисел (в диапазоне от 0 до 9)
+и возвращает строку в формате телефонного номера.
 
-Example: createPhoneNumber([1, 2, 3, 4, 5, 6, 7, 8, 9, 0]) // => returns "(123) 456-7890"
+Пример:
+createPhoneNumber([1, 2, 3, 4, 5, 6, 7, 8, 9, 0]) 
+// => возвращает "(123) 456-7890"
 
-The returned format must be correct in order to complete this challenge.
-Don't forget the space after the closing parentheses.
+Возвращённый формат должен быть строго правильным для успешного выполнения задачи.
+Не забудьте про пробел после закрывающей скобки.
 */
 
 function createPhoneNumber(numbers) {
-    // Формируем строку с использованием массива и шаблонных строк
-    return `(${numbers.slice(0, 3).join('')}) ${numbers.slice(3, 6).join('')}-${numbers.slice(6, 10).join('')}`;
+  // Формируем строку с использованием массива и шаблонных строк
+  return `(${numbers.slice(0, 3).join('')}) ${numbers.slice(3, 6).join('')}-${numbers.slice(6, 10).join('')}`;
 }
 
 /*
+Альтернативная реализация:
 function createPhoneNumber(numbers){
-  var format = "(xxx) xxx-xxxx";
-  
-  for(var i = 0; i < numbers.length; i++)
-  {
-    format = format.replace('x', numbers[i]);
-  }
-  
-  return format;
+var format = "(xxx) xxx-xxxx";
+
+for(var i = 0; i < numbers.length; i++)
+{
+  format = format.replace('x', numbers[i]);
+}
+
+return format;
 }
 */
 
