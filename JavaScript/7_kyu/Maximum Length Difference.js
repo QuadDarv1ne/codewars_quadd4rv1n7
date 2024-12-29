@@ -30,3 +30,9 @@ function mxdiflg(a1, a2) {
   // Возвращаем максимальную абсолютную разницу
   return Math.max(Math.abs(maxA1 - minA2), Math.abs(maxA2 - minA1));
 }
+
+/*
+Хижина программиста Æ 
+https://t.me/hut_programmer_07  
+@quadd4rv1n7
+*/
