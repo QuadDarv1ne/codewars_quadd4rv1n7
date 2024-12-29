@@ -146,3 +146,9 @@ function cut(cake) {
 	// Запуск алгоритма
 	return run(cake_array, size, []);
 }
+
+/*
+Хижина программиста Æ 
+https://t.me/hut_programmer_07  
+@quadd4rv1n7
+*/
