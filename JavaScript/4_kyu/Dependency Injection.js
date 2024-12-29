@@ -50,3 +50,9 @@ DI.prototype.inject = function (func) {
     return func.apply(null, dependencies);
   };
 };
+
+/*
+Хижина программиста Æ 
+https://t.me/hut_programmer_07  
+@quadd4rv1n7
+*/
