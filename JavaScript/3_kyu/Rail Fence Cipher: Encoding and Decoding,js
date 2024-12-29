@@ -1,0 +1,96 @@
+/**
+ * Функция для кодирования строки с использованием шифра Rail Fence.
+ * 
+ * Этот метод кодирует строку, записывая её символы по диагонали вдоль заданного числа "рельсов".
+ * Сначала символы записываются диагонально вниз, затем, достигнув нижнего рельса, направление меняется на диагональ вверх,
+ * и так продолжается до конца строки. Полученная строка формируется путём чтения всех рельсов слева направо.
+ *
+ * @param {string} string Строка для кодирования.
+ * @param {number} numberRails Количество рельсов (должно быть больше или равно 2).
+ * @returns {string} Закодированная строка.
+ */
+function encodeRailFenceCipher(string, numberRails) {
+  if (string === "" || numberRails <= 1) {
+    return string;
+  }
+
+  // Создаём массив для рельсов
+  const rails = Array.from({ length: numberRails }, () => []);
+
+  let currentRail = 0;
+  let goingDown = false;
+
+  // Размещаем символы по рельсам
+  for (let i = 0; i < string.length; i++) {
+    rails[currentRail].push(string[i]);
+
+    // Меняем направление при достижении верхнего или нижнего рельса
+    if (currentRail === 0 || currentRail === numberRails - 1) {
+      goingDown = !goingDown;
+    }
+
+    // Переходим на следующий рельс
+    currentRail += goingDown ? 1 : -1;
+  }
+
+  // Собираем строку из всех рельсов
+  return rails.map(rail => rail.join('')).join('');
+}
+
+/**
+ * Функция для декодирования строки, зашифрованной с использованием шифра Rail Fence.
+ * 
+ * Этот метод восстанавливает исходную строку из зашифрованной строки, прочитав символы по диагонали,
+ * начиная с верхнего рельса и следуя в том же направлении, в котором они были закодированы.
+ * Строка разбивается на рельсы, а затем символы восстанавливаются с учётом зигзагообразного движения.
+ *
+ * @param {string} string Зашифрованная строка.
+ * @param {number} numberRails Количество рельсов, использованных при кодировании.
+ * @returns {string} Декодированная строка.
+ */
+function decodeRailFenceCipher(string, numberRails) {
+  if (string === "" || numberRails <= 1) {
+    return string;
+  }
+
+  // Создаём массив для рельсов
+  const rails = Array.from({ length: numberRails }, () => []);
+
+  let currentRail = 0;
+  let goingDown = false;
+
+  // Рассчитываем количество символов на каждом рельсе
+  const railLengths = Array(numberRails).fill(0);
+  let charIndex = 0;
+
+  for (let i = 0; i < string.length; i++) {
+    railLengths[currentRail]++;
+    if (currentRail === 0 || currentRail === numberRails - 1) {
+      goingDown = !goingDown;
+    }
+    currentRail += goingDown ? 1 : -1;
+  }
+
+  // Заполняем рельсы символами из строки
+  currentRail = 0;
+  goingDown = false;
+  for (let i = 0; i < numberRails; i++) {
+    for (let j = 0; j < railLengths[i]; j++) {
+      rails[i].push(string[charIndex++]);
+    }
+  }
+
+  // Восстанавливаем строку, читая символы по диагонали
+  let decodedString = '';
+  currentRail = 0;
+  goingDown = false;
+  for (let i = 0; i < string.length; i++) {
+    decodedString += rails[currentRail].shift();
+    if (currentRail === 0 || currentRail === numberRails - 1) {
+      goingDown = !goingDown;
+    }
+    currentRail += goingDown ? 1 : -1;
+  }
+
+  return decodedString;
+}
