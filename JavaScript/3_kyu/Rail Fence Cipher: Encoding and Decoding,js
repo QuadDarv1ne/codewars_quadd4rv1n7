@@ -94,3 +94,9 @@ function decodeRailFenceCipher(string, numberRails) {
 
   return decodedString;
 }
+
+/*
+Хижина программиста Æ 
+https://t.me/hut_programmer_07  
+@quadd4rv1n7
+*/
